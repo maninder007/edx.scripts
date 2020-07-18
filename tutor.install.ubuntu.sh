@@ -7,7 +7,7 @@
 # date:       march 21, 2019
 #
 # usage:      Install Tutor and its prerequisites.
-#             curl -sSL https://raw.githubusercontent.com/lpm0073/edx.scripts/master/tutor.install.sh | bash -e
+#             curl -sSL https://raw.githubusercontent.com/maninder007/edx.scripts/master/tutor.install.sh | bash -e
 #
 # reference:  https://docs.tutor.overhang.io/quickstart.html
 #
