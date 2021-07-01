@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="https://lawrencemcdaniel.com" target="_blank">
+   <img src="https://img.shields.io/badge/hack.d-Lawrence%20McDaniel-orange.svg" alt="Hack.d Lawrence McDaniel">
+  </a>
+</p>
+
 <p align="center">
   <img src="https://github.com/lpm0073/edx.scripts/blob/master/img/open-edx-logo.png">
 </p>
@@ -20,7 +26,7 @@ files require a recompilation of the language pack. This script initiates the re
 
 ### Open edX Native Installation
 [edx.platform-install.sh](https://github.com/lpm0073/edx.scripts/blob/master/edx.platform-install.sh). These are the complete set of commands necessary to raise a new Open edX Native installation
-on a fresh build of Ubuntu 16.04.
+on a fresh build of Ubuntu 20.04.
 
 ### Open edX Database Migrations
 [edx.platform-migrations.sh](https://github.com/lpm0073/edx.scripts/blob/master/edx.platform-migrations.sh). Initiates database migrations, a Django-specific deployment process whereby updates to database table, field and relationships are deduced by programmatically analyzing django/python objects. This process is almost always taken care of for you via the Ansible Playbooks. You'd need to run this script if, for example, an automated platform upgrade script stalled.
